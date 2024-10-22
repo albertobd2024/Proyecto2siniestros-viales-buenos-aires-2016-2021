@@ -145,6 +145,11 @@ Optimización del transporte público en zonas críticas para disminuir el uso e
 3. **Ejecutar el Notebook**: Abre el notebook `proyecto2_analisisdedatos_siniestrosviales.ipynb` para ejecutar el análisis exploratorio de datos y visualizar las conclusiones.
 
 4. **Ver el Dashboard**: El dashboard interactivo se puede visualizar usando **Power BI** o **Dash**. Las visualizaciones se encuentran en el archivo `dashboard.pbix` o en el directorio correspondiente de Dash en el repositorio.
+## Dashboard de Siniestros Viales
+
+Puedes acceder al **dashboard interactivo** en Power BI a través del siguiente enlace:
+
+[Ver Dashboard](https://app.powerbi.com/groups/me/reports/50d28cc7-2c46-41fb-a034-791298faa39f?ctid=2d89fce8-d56b-4b93-b885-0e70fe61c2b7&pbi_source=linkShare&bookmarkGuid=a35989db-12e8-424d-8e1b-98ac2a891cae)
 
 ---
 
