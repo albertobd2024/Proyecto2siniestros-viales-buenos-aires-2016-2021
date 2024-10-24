@@ -54,7 +54,7 @@ La tasa de homicidios mostró un pico significativo en **2017**, con una tendenc
 
 La mayoría de los **accidentes** ocurrieron durante las **horas pico**, principalmente entre las **6:00 AM y 9:00 AM**. Se recomienda **aumentar la vigilancia** durante estas horas para reducir accidentes graves.
 
-### 📍 Accidentes por Comunas (2016-2021)
+### 📍 Accidentes por Avenida (2016-2021)
 
 
 La distribución de accidentes mostró que las avenidas con mayor número de accidentes fueron la **Av. GRAL.PAZ**, **AV. Rivadavia **, y **DEl libertador **.
