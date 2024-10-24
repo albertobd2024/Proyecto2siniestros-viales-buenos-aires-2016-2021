@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/41837104-aac6-4b35-8848-82d7606e58b1)
+
+
+
+
+
 # 🚗🚦 Proyecto Individual Nº 2: Análisis de Homicidios por Siniestros Viales en Buenos Aires, muertes en moto (2016-2021), y lesiones de transito (2019-2024) 🛑
 
 
