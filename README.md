@@ -63,7 +63,7 @@ La distribución de accidentes mostró que las avenidas con mayor número de acc
 
 ## 📈 KPI: Reducción de Accidentes
 
-Se planteó un objetivo de reducción del **10%** en la tasa de homicidios y del **7%** en accidentes de motociclistas y analisis si el 5% es por motocicletas segun datos de la Organización Mundial de la Salud . El KPI final mostró una reducción del:
+Se planteó un objetivo de reducción del **10%** en la tasa de homicidios y del **7%** en accidentes de motociclistas y analisis si el 50% es por motocicletas segun datos de la Organización Mundial de la Salud . El KPI final mostró una reducción del:
 
 - **35.37%** en el total de accidentes en los últimos 6 meses, comparado con los 6 meses anteriores.
 
