@@ -1,4 +1,4 @@
-# 🚗🚦 Proyecto Individual Nº 2: Análisis de Siniestros Viales en Buenos Aires (2016-2021) 🛑
+# 🚗🚦 Proyecto Individual Nº 2: Análisis de Homicidios por Siniestros Viales en Buenos Aires, muertes en moto (2016-2021), y lesiones de transito (2019-2024) 🛑
 
 
 
@@ -6,7 +6,7 @@
 
 Este proyecto tiene como objetivo **analizar los siniestros viales** ocurridos en la Ciudad Autónoma de Buenos Aires (**CABA**) entre 2016 y 2021. Utilizando herramientas de **análisis de datos** y visualización, buscamos **identificar patrones** y tendencias que ayuden a reducir los accidentes viales.
 
-El proyecto fue solicitado por el **Observatorio de Movilidad y Seguridad Vial** de CABA, con el fin de **proponer mejoras** en la seguridad vial y **disminuir el número de víctimas fatales**.
+El proyecto es un analisis de dos datsets del **Observatorio de Movilidad y Seguridad Vial** de CABA, con el fin de **proponer mejoras** en la seguridad vial y **disminuir el número de víctimas fatales**.
 
 ---
 
@@ -57,13 +57,13 @@ La mayoría de los **accidentes** ocurrieron durante las **horas pico**, princip
 ### 📍 Accidentes por Comunas (2016-2021)
 
 
-La distribución de accidentes mostró que las comunas con mayor número de accidentes fueron la **Comuna 1**, **Comuna 3**, y **Comuna 8**.
+La distribución de accidentes mostró que las avenidas con mayor número de accidentes fueron la **Av. GRAL.PAZ**, **AV. Rivadavia **, y **DEl libertador **.
 
 ---
 
 ## 📈 KPI: Reducción de Accidentes
 
-Se planteó un objetivo de reducción del **10%** en la tasa de homicidios y del **7%** en accidentes de motociclistas. El KPI final mostró una reducción del:
+Se planteó un objetivo de reducción del **10%** en la tasa de homicidios y del **7%** en accidentes de motociclistas y analisis si el 5% es por motocicletas segun datos de la Organización Mundial de la Salud . El KPI final mostró una reducción del:
 
 - **35.37%** en el total de accidentes en los últimos 6 meses, comparado con los 6 meses anteriores.
 
